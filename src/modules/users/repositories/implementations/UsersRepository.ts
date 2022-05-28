@@ -55,11 +55,7 @@ class UsersRepository implements IUsersRepository {
         updated_at: new Date()
       })
       this.users[index] = user;  
-      return user;
-      // this.users[index].admin= true;
-      // this.users[index].updated_at= new Date();      
-
-      // return this.users[index];
+      return user;      
     }
     
     return user;
