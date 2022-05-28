@@ -4,8 +4,8 @@ Practicing SOLID principle in a NodeJS project
 
 # Run test
 
-yarn && yarn test
+`yarn && yarn test`
 
 # Run
 
-yarn && yarn dev
+`yarn && yarn dev`
