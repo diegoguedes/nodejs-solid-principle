@@ -9,3 +9,6 @@ Practicing SOLID principle in a NodeJS project
 # Run
 
 `yarn && yarn dev`
+
+# Online test
+This project is available online at Cyclic: https://cute-jay-onesies.cyclic.app/
